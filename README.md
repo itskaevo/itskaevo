@@ -21,5 +21,5 @@ under the hood rather than just using them.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itskaevo&color=58A6FF&label=views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=imInph&color=58A6FF&label=views&style=flat-square" />
 </p>
